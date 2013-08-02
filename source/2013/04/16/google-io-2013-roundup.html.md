@@ -7,8 +7,6 @@ published: true
 
 This year for Google I/O's pre-conference web site, we (Instrument) created a series of mobile-first experiments. It looks like this:
 
-![teaser.png](/source/2013/04/16/teaser.png)
-
 <img src="http://instrument.github.io/google-io-2013/article/home.gif" width="480" height="396">
 
 Check out the whole thing at: [https://developers.google.com/events/io/](https://developers.google.com/events/io/) and see if you can find all the unlockable modes via 8-bit I/O patterns.
