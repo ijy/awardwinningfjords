@@ -2,9 +2,12 @@
 title: Google I/O 2013 Experiment Roundup
 tags: google
 blog_editor_id: 96
+published: true
 ---
 
 This year for Google I/O's pre-conference web site, we (Instrument) created a series of mobile-first experiments. It looks like this:
+
+![teaser.png](/source/2013/04/16/teaser.png)
 
 <img src="http://instrument.github.io/google-io-2013/article/home.gif" width="480" height="396">
 
